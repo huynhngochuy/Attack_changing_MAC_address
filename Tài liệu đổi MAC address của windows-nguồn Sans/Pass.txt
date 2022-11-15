@@ -1,1 +1,3 @@
-505
+Password for unzipping:505
+
+Powershell script: \Day4\Wireless
